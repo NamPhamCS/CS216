@@ -1,4 +1,3 @@
-// YOUR_FIRST_NAME YOUR_LAST_NAME
 /* Ngoc Nam Pham*/
 // Lab #0
 
